@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Node.js, Express, NestJs, React.jS, Next**
 
-- 📫 How to reach me **osamaibrah10@gmail.com**
+- 📫 How to reach me **osamaibrah1010@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
